@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+p{
+    color:black;
+    font-size: 20px;
+    font-weight: normal;/* bold */
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+    text-align: justify;/* left center right justify*/
+    text-decoration: none;/* underline line-through overline*/
+    text-transform: none; /* uppercase lowercase capitalize */
+
+    width: 600px;
+    float: left;
+    margin: 20px;
+    /*
+        margin-top:20px;
+        margin-right:20px;
+        margin-bottom:20px;
+        margin-left:20px;
+    */
+    padding: 20px;
+    border: 1px solid red;
+
+}
+a{
+    text-decoration: none;
+}
+.hoahau{
+    background-color: yellow;
+    color: blue;
+}
+.thisinh{
+    color: red;
+}
